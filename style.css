@@ -889,9 +889,6 @@ footer {
   .fourth-laman{
     width: auto;
   }
-  .contactsthree{
-      display: none;
-    }
 }
 
 @media screen and (max-width: 525px) {
@@ -962,9 +959,6 @@ footer {
     .card p{
         font-size: 15px;
     }
-    .contactsthree{
-      display: none;
-    }
-
+    
   }
   
