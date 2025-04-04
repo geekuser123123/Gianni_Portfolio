@@ -915,7 +915,7 @@ footer {
         font-size: 45px;
     }
     .contact{
-        margin-top: 30px;
+        margin-top: 20px;
       
     }
     .contacttwo{
@@ -955,6 +955,9 @@ footer {
     }
     .card p{
         font-size: 15px;
+    }
+    .contactsthree{
+      display: none;
     }
 
   }
