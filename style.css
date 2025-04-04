@@ -889,6 +889,9 @@ footer {
   .fourth-laman{
     width: auto;
   }
+  .contactsthree{
+      display: none;
+    }
 }
 
 @media screen and (max-width: 525px) {
