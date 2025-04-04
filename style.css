@@ -921,6 +921,9 @@ footer {
     .contacttwo{
         margin-top: 15px;
     }
+   .contactsthree{
+      display: none;
+    }
 
   }
   @media screen and (max-width: 395px) {
