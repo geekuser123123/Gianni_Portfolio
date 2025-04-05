@@ -311,11 +311,10 @@ main p {
 }
 
 .boxuno p {
-  border: solid 1px #000;
   text-align: center;
   padding: 30px;
   color: #fff;
-  background-color: #000;
+  background-color: #1a1a1a;
   letter-spacing: 1px;
   font-size: 15px;
   cursor: pointer;
